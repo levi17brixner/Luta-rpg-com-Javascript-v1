@@ -1,0 +1,15 @@
+body{
+    background-image: url(img/parado.png);
+    background-size:18cm;
+    background-repeat: no-repeat;
+}
+
+#botao{
+    margin-top: 6cm;
+    margin-left: 22cm;
+}
+
+button{
+    width: 3cm;
+    height: 1.5cm;
+}
